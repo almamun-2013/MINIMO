@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    padding: -15px;
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow:hidden;
+    margin-top:30px;
+}
+.logo{
+width: 20%;
+float: left;
+}
+nav{
+width: 50%;
+float: right;
+}
+nav ul{
+list-style: none;
+Float:right;
+}
+nav ul li{
+    float:left;
+margin-left:50px;
+text-transform:uppercase;
+font-size:15px;
+font-family: 'Playfair Display', serif;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow:hidden;
+}
+.banner img{
+width:100%;
+}
+.photodairy{
+    width: 80%;
+    margin-left: 10%;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+.photodairy h5{
+color: #b4ad9e;
+font-size:14px;
+text-transform:uppercase;
+font-weight:500;
+margin-top:100px;
+margin-bottom:20px;
+}
+
+
+.photodairy h1{
+    color:#626262;
+    font-size:30px;
+    text-transform:capitalize;
+    margin-bottom:20px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.photodairy p{
+    color:#626262;
+   font-size:17px;
+   margin-bottom:50px;
+   font-family: 'Playfair Display', serif;
+}
+.photodairy h6{
+    color:#b4ad9e;
+    font-size:14px;
+    text-transform:uppercase;
+    font-weight:500;
+    margin-bottom:80px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.life-style{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow:hidden;
+}
+.banner img{
+width:100%;
+margin-left:50px;
+float: left;
+overflow: hidden;
+}
+.lifestyle{
+width: 80%;
+margin:  auto;
+overflow: hidden;
+}
+.lifestyle_left{
+width: 48%;
+float: left;
+}
+.lifestyle_left img{
+    width: 100%;
+}.lifestyle_left h6{
+    color:#b4ad9e;
+    font-size:14px;
+    text-transform:uppercase;
+    font-weight:500;
+    margin-bottom:20px;
+    margin-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}.lifestyle_left h1{
+    color:#626262;
+    font-size:30px;
+    text-transform:capitalize;
+    margin-bottom:20px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+}.lifestyle_left p{
+    color:#626262;
+    font-size:17px;
+    margin-bottom:50px;
+    font-family: 'Playfair Display', serif;
+}
+.lifestyle_right{
+    width: 48%;
+    float: right;
+    
+    }
+    .lifestyle_right img{
+        width: 100%;
+    }
+    .lifestyle_right h6{
+        color:#b4ad9e;
+        font-size:14px;
+        text-transform:uppercase;
+        font-weight:500;
+        margin-bottom:20px;
+        margin-top: 10px;
+        font-family: 'Ubuntu', sans-serif;
+    }
+.lifestyle_right h1{
+    color:#626262;
+    font-size:30px;
+    text-transform:capitalize;
+    margin-bottom:20px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.lifestyle_right p{
+    color:#626262;
+    font-size:17px;
+    margin-bottom:50px;
+    font-family: 'Playfair Display', serif;
+}
+
+.news{
+background-color: #f0f0f0;
+text-align: center;
+margin-bottom: 100px;
+}
+.news-content{
+width: 70%;
+margin: auto;
+padding: 70px;
+position:relative ;
+}
+.news-content h1{
+    color:#626262;
+    font-size:35px;
+    text-transform:capitalize;
+    margin-bottom:20px;
+    font-family: 'Playfair Display', serif;
+  
+}
+.news-content input{
+    border:none;
+    background:transparent;
+    border-bottom:1px solid;
+width:40%;
+}
+.news-content input:focus{
+    outline: none;
+}
+.news-content input::placeholder{
+    color:#626262;
+   
+    text-transform:capitalize;
+    font-family: 'Playfair Display', serif;
+  }
+  .send{
+    position: absolute;
+    left: 695px;
+    bottom: 70PX;
+  }
+  .load{
+text-align:center
+}
+  .load button{
+
+margin: 100px 0;
+
+padding: 15px 30px;
+
+font-size: 20px;
+
+font-weight: 300;
+}
+footer{
+
+background-color: #f0f0f0;
+}
+.footer-content{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+
+padding: 30px 0;
+}
+.terms{
+
+width: 30%;
+
+float: left;
+}
+.terms ul{
+
+list-style: none;
+}
+.terms ul li{
+
+float: left;
+
+margin-right: 14px;
+}
+.social-icon{
+
+width: 30%;
+
+float: right;
+}
+.social-icon ul{
+
+list-style: none;
+
+float: right;
+
+margin-left: 20px;
+}
+.social-icon ul li{
+
+float: left;
+
+margin-left: 20px;
+}
+    
